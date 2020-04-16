@@ -1,4 +1,4 @@
-# Create-new-branch-locally using GIT BASH
+# Create new branch locally using GIT BASH
 The repo shows how to create new branch locally to control separate feature in your project and push that branch on GitHub as well.
 ### Create new branch
   Go to your Git repository in your PC. Right Click and choose Git Bash Here.
