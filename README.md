@@ -14,15 +14,15 @@ The repo shows how to create new branch locally to control separate feature in y
    - $ ``` git checkout <name of your new branch> ```
 <br />
 3. Commit any changes to your new branch. (CAN BE SKIPPED) <br />
-    - Check status <br />
-      -$ ``` git status ``` <br />
-    - Adding files <br />
-      - Add all of them <br />
-        -$ ```git add .```<br />
-      - Add specific file. See your file name in the list of modified files using $ git status. <br />
-        $ git add 'your filename' <br />
-    Restore file. See your file name in the list of modified files using $ git status. <br />
-      $ git restore 'your filename' <br />
+- Check status <br />
+  - $ ``` git status ``` <br />
+- Adding files <br />
+  - Add all of them <br />
+   - $ ```git add .```<br />
+  - Add specific file. See your file name in the list of modified files using $ git status. <br />
+   - $ ```git add 'your filename'``` <br />
+  - Restore file. See your file name in the list of modified files using $ git status. <br />
+   - $ ``` git restore 'your filename'``` <br />
       
 4. Push new branch to GitHub <br />
-  $ git push origin <name of your new branch>
+  - $ ```git push origin <name of your new branch>```
